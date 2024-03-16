@@ -1,2 +1,2 @@
-# tasktrunk
-Tasktrunk is a website that offers a to-do application which can be used without creating an account.
+# TaskTrunk
+Tasktrunk is a website offering a to-do application that can be used without creating an account.
